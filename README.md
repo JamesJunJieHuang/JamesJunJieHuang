@@ -1,7 +1,8 @@
 <h1 align="center">James Huang  💻 Software Engineer  🏙️ NYC </h1>
 
-<img align="center" alt="Coding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDc4YTQyMDAwNDRjOWM3MWVmNjNkMjYwZWUwZThlYjQyZDJhMmI2MSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
-
+<div align="center">
+<img alt="Coding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDc4YTQyMDAwNDRjOWM3MWVmNjNkMjYwZWUwZThlYjQyZDJhMmI2MSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
+</div>
    
 <h2>Experience</h2>
 
