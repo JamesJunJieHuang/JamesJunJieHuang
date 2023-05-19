@@ -1,6 +1,6 @@
 <h1 align="center">James Huang  💻 Software Engineer  🌇 NYC </h1>
 
-<img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif">
+<img align="right" alt="Coding" width="350" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
 
 <h2>Experience</h2>
 
