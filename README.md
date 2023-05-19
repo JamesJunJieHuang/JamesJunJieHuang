@@ -1,6 +1,6 @@
 <h1 align="center">James Huang  💻 Software Engineer  🌇 NYC </h1>
 
-<img align="right" alt="Coding" width="350" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
+<img align="right" alt="Coding" width="350" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC">
 
 <iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
 
